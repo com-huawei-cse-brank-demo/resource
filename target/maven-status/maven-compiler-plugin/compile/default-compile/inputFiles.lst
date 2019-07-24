@@ -1,0 +1,10 @@
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/config/MybatisConfig.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/constant/Response.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/utils/JsonResponse.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/service/ResourceService.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/entity/Resource.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/mapper/ResourceMapper.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/constant/ResourceCountByLevel.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/DemoResourceApplication.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/entity/Customer.java
+/Users/liuyang/Desktop/huawei/demo-resource/src/main/java/com/huawei/cse/demoresource/controller/ResourceController.java

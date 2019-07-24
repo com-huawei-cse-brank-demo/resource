@@ -1,0 +1,13 @@
+com/huawei/cse/demoresource/config/MybatisConfig$1.class
+com/huawei/cse/demoresource/service/ResourceService.class
+com/huawei/cse/demoresource/utils/JsonResponse.class
+com/huawei/cse/demoresource/config/MybatisConfig.class
+com/huawei/cse/demoresource/mapper/ResourceMapper.class
+com/huawei/cse/demoresource/controller/ResourceController.class
+com/huawei/cse/demoresource/constant/Response.class
+com/huawei/cse/demoresource/entity/Resource.class
+com/huawei/cse/demoresource/constant/ResourceCountByLevel$Level.class
+com/huawei/cse/demoresource/DemoResourceApplication.class
+com/huawei/cse/demoresource/entity/Customer.class
+com/huawei/cse/demoresource/entity/Resource$Status.class
+com/huawei/cse/demoresource/constant/ResourceCountByLevel.class
