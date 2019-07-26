@@ -19,6 +19,8 @@ APPLICATION_ID: chuyiting
 service_description:
   name: resource
   version: 1.0.0
+  
+## 线上配置
 cse:
   service:
     registry:
@@ -35,12 +37,13 @@ cse:
     server:
       verticle-count: 10
   credentials:
-    accessKey: LBPFWSWNYNYDA33TTB8Z
-    secretKey: 1Pyb299AU0lEc3E2sp1oamz21VWQxNX3VGsKNnSj
+    accessKey: YourAccessKey
+    secretKey: YourSecretKey
     #    akskCustomCipher: default
     project: cn-north-1
 
-
+  
+## 本地配置
 #cse:
 ##  service:
 ##    registry:
@@ -61,7 +64,7 @@ cse:
 #  rest:
 #    address: 0.0.0.0:7071
 #  credentials:
-#    accessKey: LBPFWSWNYNYDA33TTB8Z
-#    secretKey: 1Pyb299AU0lEc3E2sp1oamz21VWQxNX3VGsKNnSj
+#    accessKey: YourAccessKey
+#    secretKey: YourSecretKey
 #    #    akskCustomCipher: default
 #    project: cn-north-1
